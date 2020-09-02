@@ -25,7 +25,7 @@
     padding: 0rem $default-font-size;
   }
 
-  .hero-title {
+  .dawid-title {
     font-size: 5.6rem;
     font-weight: 700;
     margin-bottom: 3.2rem;
@@ -47,7 +47,7 @@
     }
   }
 
-  .hero-cta {
+  .dawid-cta {
     display: flex;
 
     @include respond(tab-port) {
